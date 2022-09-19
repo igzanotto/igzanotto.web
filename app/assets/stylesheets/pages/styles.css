@@ -2955,7 +2955,7 @@ textarea.form-control-lg {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #cf5331;
+  background-color: #cf5331 !important;
   border-color: #c34e2e;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
@@ -3852,7 +3852,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #f4623a;
+  color: #1c0f2f;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3862,7 +3862,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #c34e2e;
+  color: #090200;
 }
 .nav-link.disabled {
   color: #6c757d;
